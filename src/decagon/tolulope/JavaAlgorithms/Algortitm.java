@@ -1,4 +1,4 @@
-package decagon.tolulope.JavaTests;//package com.company;
+package decagon.tolulope.JavaAlgorithms;//package com.company;
 
 import java.util.Arrays;
 

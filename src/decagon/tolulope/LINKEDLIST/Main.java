@@ -70,6 +70,7 @@ public class Main {
                     if(!forward){
                         if(listIterator.hasNext()){
                             listIterator.next();
+//                            listIterator.pre
                         }
                         forward = true;
                     }

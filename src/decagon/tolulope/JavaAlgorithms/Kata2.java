@@ -1,6 +1,5 @@
-package decagon.tolulope.JavaTests;
+package decagon.tolulope.JavaAlgorithms;
 
-import java.util.Arrays;
 import java.util.stream.IntStream;
 
 public class Kata2 {

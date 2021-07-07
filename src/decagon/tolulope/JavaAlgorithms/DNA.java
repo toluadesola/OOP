@@ -1,4 +1,4 @@
-package decagon.tolulope.JavaTests;
+package decagon.tolulope.JavaAlgorithms;
 
 class DNA {
     public static String dnaComplement(String dna) {

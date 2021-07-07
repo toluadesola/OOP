@@ -1,6 +1,4 @@
-package decagon.tolulope.JavaTests;
-
-import java.util.Locale;
+package decagon.tolulope.JavaAlgorithms;
 
 public class StrUtils {
     public static void main(String[] args) {

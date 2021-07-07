@@ -1,6 +1,4 @@
-package decagon.tolulope.JavaTests;
-
-import decagon.tolulope.ARRAYS.Arrays;
+package decagon.tolulope.JavaAlgorithms;
 
 public class Kata {
     public static void main(String[] args) {

@@ -1,8 +1,7 @@
-package decagon.tolulope.JavaTests;
+package decagon.tolulope.JavaAlgorithms;
 
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.List;
 
 public class BitCounting {
 

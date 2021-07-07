@@ -1,4 +1,4 @@
-package decagon.tolulope.JavaTests;
+package decagon.tolulope.JavaAlgorithms;
 
 public class CalculateRotation {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package decagon.tolulope.JavaTests;
+package decagon.tolulope.JavaAlgorithms;
 
 class Challenge4 {
     public static void main(String[] args) {
